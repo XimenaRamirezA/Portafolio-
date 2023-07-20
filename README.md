@@ -10,11 +10,14 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](imagenes/4.png)
+![Primera parte de la página web](imagenes/3.png)
 
 Experiencia:
 
-![Experiencia](imagenes/5.png)
+![Experiencia](imagenes/4.png)
+
+Proyectos:
+![Proyectos](imagenes/5.png)
 
 Contacto:
 
@@ -35,6 +38,8 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 El texto de la página web está escrito en inglés, las clases y atributos personalizados están en español. Las clases relacionadas con Bootstrap se incluyeron en inglés.
 
+Link del demo:
+https://portafolio-ximena-ramirez.netlify.app/
 
 
 
